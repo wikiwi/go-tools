@@ -83,6 +83,15 @@
 			"notests": true
 		},
 		{
+			"importpath": "golang.org/x/tools/cmd/gotype",
+			"repository": "https://go.googlesource.com/tools",
+			"vcs": "git",
+			"revision": "95963e031d86b0e7dafe40fde044d7f610404855",
+			"branch": "master",
+			"path": "/cmd/gotype",
+			"notests": true
+		},
+		{
 			"importpath": "golang.org/x/tools/cmd/oracle",
 			"repository": "https://go.googlesource.com/tools",
 			"vcs": "git",
