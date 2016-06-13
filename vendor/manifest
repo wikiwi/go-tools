@@ -4,71 +4,216 @@
 		{
 			"importpath": "github.com/FiloSottile/gvt",
 			"repository": "https://github.com/FiloSottile/gvt",
+			"vcs": "git",
 			"revision": "a050c666bb8c423c61da7bbb2660bf14f0c25f6a",
-			"branch": "master"
+			"branch": "master",
+			"notests": true
 		},
 		{
-			"importpath": "github.com/golang/lint/golint",
+			"importpath": "github.com/golang/lint",
 			"repository": "https://github.com/golang/lint",
+			"vcs": "git",
 			"revision": "c7bacac2b21ca01afa1dee0acf64df3ce047c28f",
 			"branch": "master",
-			"path": "/golint"
+			"notests": true
 		},
 		{
 			"importpath": "github.com/josharian/impl",
 			"repository": "https://github.com/josharian/impl",
+			"vcs": "git",
 			"revision": "43306ba79c4e3d1a038db0365b189ad4cca413c6",
-			"branch": "master"
+			"branch": "master",
+			"notests": true
 		},
 		{
 			"importpath": "github.com/jstemmer/gotags",
 			"repository": "https://github.com/jstemmer/gotags",
+			"vcs": "git",
 			"revision": "be986a34e20634775ac73e11a5b55916085c48e7",
-			"branch": "master"
+			"branch": "master",
+			"notests": true
 		},
 		{
 			"importpath": "github.com/kisielk/errcheck",
 			"repository": "https://github.com/kisielk/errcheck",
+			"vcs": "git",
 			"revision": "8e25ad9d46f6c5d4e994edf82c57eb773a9aa73d",
-			"branch": "master"
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/kisielk/gotool",
+			"repository": "https://github.com/kisielk/gotool",
+			"vcs": "git",
+			"revision": "58a7a198f2ec6ea7af221fd216e7f559d663ce02",
+			"branch": "master",
+			"notests": true
 		},
 		{
 			"importpath": "github.com/nsf/gocode",
 			"repository": "https://github.com/nsf/gocode",
+			"vcs": "git",
 			"revision": "bb0c614120474a3519c692834afb7b69b097b465",
-			"branch": "master"
+			"branch": "master",
+			"notests": true
 		},
 		{
 			"importpath": "github.com/rogpeppe/godef",
 			"repository": "https://github.com/rogpeppe/godef",
+			"vcs": "git",
 			"revision": "93a5898bcbd891dafa723f8d6d44eb5e9dd96786",
-			"branch": "master"
+			"branch": "master",
+			"notests": true
 		},
 		{
 			"importpath": "github.com/tools/godep",
 			"repository": "https://github.com/tools/godep",
+			"vcs": "git",
 			"revision": "f5755188800cca4cffecf6068353a75a31c0bc56",
-			"branch": "master"
+			"branch": "master",
+			"notests": true
 		},
 		{
 			"importpath": "golang.org/x/tools/cmd/goimports",
 			"repository": "https://go.googlesource.com/tools",
+			"vcs": "git",
 			"revision": "95963e031d86b0e7dafe40fde044d7f610404855",
 			"branch": "master",
-			"path": "/cmd/goimports"
+			"path": "/cmd/goimports",
+			"notests": true
 		},
 		{
 			"importpath": "golang.org/x/tools/cmd/oracle",
 			"repository": "https://go.googlesource.com/tools",
+			"vcs": "git",
 			"revision": "95963e031d86b0e7dafe40fde044d7f610404855",
 			"branch": "master",
-			"path": "/cmd/oracle"
+			"path": "/cmd/oracle",
+			"notests": true
+		},
+		{
+			"importpath": "golang.org/x/tools/container/intsets",
+			"repository": "https://go.googlesource.com/tools",
+			"vcs": "git",
+			"revision": "95963e031d86b0e7dafe40fde044d7f610404855",
+			"branch": "master",
+			"path": "container/intsets",
+			"notests": true
+		},
+		{
+			"importpath": "golang.org/x/tools/go/ast/astutil",
+			"repository": "https://go.googlesource.com/tools",
+			"vcs": "git",
+			"revision": "95963e031d86b0e7dafe40fde044d7f610404855",
+			"branch": "master",
+			"path": "go/ast/astutil",
+			"notests": true
+		},
+		{
+			"importpath": "golang.org/x/tools/go/buildutil",
+			"repository": "https://go.googlesource.com/tools",
+			"vcs": "git",
+			"revision": "95963e031d86b0e7dafe40fde044d7f610404855",
+			"branch": "master",
+			"path": "go/buildutil",
+			"notests": true
+		},
+		{
+			"importpath": "golang.org/x/tools/go/callgraph",
+			"repository": "https://go.googlesource.com/tools",
+			"vcs": "git",
+			"revision": "95963e031d86b0e7dafe40fde044d7f610404855",
+			"branch": "master",
+			"path": "go/callgraph",
+			"notests": true
+		},
+		{
+			"importpath": "golang.org/x/tools/go/gcimporter15",
+			"repository": "https://go.googlesource.com/tools",
+			"vcs": "git",
+			"revision": "95963e031d86b0e7dafe40fde044d7f610404855",
+			"branch": "master",
+			"path": "/go/gcimporter15",
+			"notests": true
+		},
+		{
+			"importpath": "golang.org/x/tools/go/loader",
+			"repository": "https://go.googlesource.com/tools",
+			"vcs": "git",
+			"revision": "95963e031d86b0e7dafe40fde044d7f610404855",
+			"branch": "master",
+			"path": "go/loader",
+			"notests": true
+		},
+		{
+			"importpath": "golang.org/x/tools/go/pointer",
+			"repository": "https://go.googlesource.com/tools",
+			"vcs": "git",
+			"revision": "95963e031d86b0e7dafe40fde044d7f610404855",
+			"branch": "master",
+			"path": "go/pointer",
+			"notests": true
+		},
+		{
+			"importpath": "golang.org/x/tools/go/ssa",
+			"repository": "https://go.googlesource.com/tools",
+			"vcs": "git",
+			"revision": "95963e031d86b0e7dafe40fde044d7f610404855",
+			"branch": "master",
+			"path": "go/ssa",
+			"notests": true
+		},
+		{
+			"importpath": "golang.org/x/tools/go/types/typeutil",
+			"repository": "https://go.googlesource.com/tools",
+			"vcs": "git",
+			"revision": "95963e031d86b0e7dafe40fde044d7f610404855",
+			"branch": "master",
+			"path": "go/types/typeutil",
+			"notests": true
+		},
+		{
+			"importpath": "golang.org/x/tools/imports",
+			"repository": "https://go.googlesource.com/tools",
+			"vcs": "git",
+			"revision": "95963e031d86b0e7dafe40fde044d7f610404855",
+			"branch": "master",
+			"path": "/imports",
+			"notests": true
+		},
+		{
+			"importpath": "golang.org/x/tools/oracle",
+			"repository": "https://go.googlesource.com/tools",
+			"vcs": "git",
+			"revision": "95963e031d86b0e7dafe40fde044d7f610404855",
+			"branch": "master",
+			"path": "oracle",
+			"notests": true
+		},
+		{
+			"importpath": "golang.org/x/tools/refactor/importgraph",
+			"repository": "https://go.googlesource.com/tools",
+			"vcs": "git",
+			"revision": "95963e031d86b0e7dafe40fde044d7f610404855",
+			"branch": "master",
+			"path": "refactor/importgraph",
+			"notests": true
+		},
+		{
+			"importpath": "launchpad.net/gocheck",
+			"repository": "https://launchpad.net/gocheck",
+			"vcs": "bzr",
+			"revision": "1",
+			"branch": "master",
+			"notests": true
 		},
 		{
 			"importpath": "launchpad.net/godeps",
 			"repository": "https://launchpad.net/godeps",
+			"vcs": "bzr",
 			"revision": "1",
-			"branch": "master"
+			"branch": "master",
+			"notests": true
 		}
 	]
 }
