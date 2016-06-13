@@ -1,0 +1,74 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/FiloSottile/gvt",
+			"repository": "https://github.com/FiloSottile/gvt",
+			"revision": "a050c666bb8c423c61da7bbb2660bf14f0c25f6a",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/golang/lint/golint",
+			"repository": "https://github.com/golang/lint",
+			"revision": "c7bacac2b21ca01afa1dee0acf64df3ce047c28f",
+			"branch": "master",
+			"path": "/golint"
+		},
+		{
+			"importpath": "github.com/josharian/impl",
+			"repository": "https://github.com/josharian/impl",
+			"revision": "43306ba79c4e3d1a038db0365b189ad4cca413c6",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/jstemmer/gotags",
+			"repository": "https://github.com/jstemmer/gotags",
+			"revision": "be986a34e20634775ac73e11a5b55916085c48e7",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/kisielk/errcheck",
+			"repository": "https://github.com/kisielk/errcheck",
+			"revision": "8e25ad9d46f6c5d4e994edf82c57eb773a9aa73d",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/nsf/gocode",
+			"repository": "https://github.com/nsf/gocode",
+			"revision": "bb0c614120474a3519c692834afb7b69b097b465",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/rogpeppe/godef",
+			"repository": "https://github.com/rogpeppe/godef",
+			"revision": "93a5898bcbd891dafa723f8d6d44eb5e9dd96786",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/tools/godep",
+			"repository": "https://github.com/tools/godep",
+			"revision": "f5755188800cca4cffecf6068353a75a31c0bc56",
+			"branch": "master"
+		},
+		{
+			"importpath": "golang.org/x/tools/cmd/goimports",
+			"repository": "https://go.googlesource.com/tools",
+			"revision": "95963e031d86b0e7dafe40fde044d7f610404855",
+			"branch": "master",
+			"path": "/cmd/goimports"
+		},
+		{
+			"importpath": "golang.org/x/tools/cmd/oracle",
+			"repository": "https://go.googlesource.com/tools",
+			"revision": "95963e031d86b0e7dafe40fde044d7f610404855",
+			"branch": "master",
+			"path": "/cmd/oracle"
+		},
+		{
+			"importpath": "launchpad.net/godeps",
+			"repository": "https://launchpad.net/godeps",
+			"revision": "1",
+			"branch": "master"
+		}
+	]
+}
