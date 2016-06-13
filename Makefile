@@ -17,3 +17,5 @@ update:
 	gvt fetch "github.com/fatih/motion"
 	gvt fetch "github.com/zmb3/gogetdoc"
 	gvt fetch "github.com/josharian/impl"
+	# More tools
+	gvt fetch "golang.org/x/tools/cmd/gotype"

@@ -20,4 +20,5 @@ go-tools is a vendored collection of go development tools using [gvt](https://gi
     - github.com/fatih/motion
     - github.com/zmb3/gogetdoc
     - github.com/josharian/impl
+    - golang.org/x/tools/cmd/gotype
 
