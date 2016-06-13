@@ -1,5 +1,5 @@
 # go-tools
-go-tools is a vendored collection of go development tools.
+go-tools is a vendored collection of go development tools using [gvt](https://github.com/FiloSottile/gvt).
 
 # Usage
 `go get github.com/wikiwi/go-tools/vendor/launchpad.net/godeps`
