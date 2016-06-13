@@ -2,18 +2,22 @@
 go-tools is a vendored collection of go development tools using [gvt](https://github.com/FiloSottile/gvt).
 
 # Usage
-`go get github.com/wikiwi/go-tools/vendor/launchpad.net/godeps`
+`go get github.com/wikiwi/go-tools/github.com/nsf/gocode`
 
 # Included tools
+    - github.com/Masterminds/glide
     - github.com/FiloSottile/gvt
-    - github.com/tools/godep
-    - github.com/golang/lint/golint
-    - github.com/josharian/impl
-    - github.com/jstemmer/gotags
-    - github.com/kisielk/errcheck
     - github.com/nsf/gocode
-    - github.com/rogpeppe/godef
-    - golang.org/x/tools/cmd/oracle
+    - github.com/alecthomas/gometalinter
     - golang.org/x/tools/cmd/goimports
-    - launchpad.net/godeps
+    - golang.org/x/tools/cmd/guru
+    - golang.org/x/tools/cmd/gorename
+    - github.com/golang/lint/golint
+    - github.com/rogpeppe/godef
+    - github.com/kisielk/errcheck
+    - github.com/jstemmer/gotags
+    - github.com/klauspost/asmfmt/cmd/asmfmt
+    - github.com/fatih/motion
+    - github.com/zmb3/gogetdoc
+    - github.com/joshrian/impl
 
