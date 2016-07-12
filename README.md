@@ -1,4 +1,6 @@
 # go-tools
+*__Warning__: This is an early alpha version without commitment for backwards compatibility.*
+
 go-tools is a vendored collection of go development tools using [gvt](https://github.com/FiloSottile/gvt).
 
 # Usage
